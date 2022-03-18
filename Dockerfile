@@ -1,3 +1,5 @@
+# Copyright 2022 James Pace
+# SPDX-License-Identifier: Apache-2.0
 FROM docker.io/library/ros:galactic-ros-base AS base
 
 # Prelude.
